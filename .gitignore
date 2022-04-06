@@ -1,4 +1,5 @@
 /cmake-build-debug cmake
 /cmake-build-debug-mingw
 /.idea
+/bbbb
 *.c
