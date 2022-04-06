@@ -11,11 +11,11 @@
 
 ## [5.指针](/markdowns/五、指针.md)
 
-## [6.复杂数据类型](/markdowns/六、复杂数据类型)
+## [6.复杂数据类型](/markdowns/六、复杂数据类型.md)
 
-## [7.字符串](/markdowns/七、字符串)
+## [7.字符串](/markdowns/七、字符串.md)
 
-## [8.时间](/markdowns/八、时间)
+## [8.时间](/markdowns/八、时间.md)
 
 ## [9.文件](/markdowns/九、文件.md)
 
