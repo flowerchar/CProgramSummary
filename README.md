@@ -1,5 +1,5 @@
 # CProgramSummary
-该仓库用CLion总结的一套C语言复习
+该仓库是用CLion总结的一套C语言复习资料
 ------
 ## 1.C语言快速入门
   [笔记](/markdowns/一、C语言快速入门.md)
