@@ -1,7 +1,8 @@
 # CProgramSummary
 该仓库用CLion总结的一套C语言复习
 ------
-## [1.C语言快速入门](/markdowns/一、C语言快速入门.md)
+## 1.C语言快速入门
+  [笔记](/markdowns/一、C语言快速入门.md)
 
 ## [2.函数与程序结构](/markdowns/二、函数与程序结构.md)
 
