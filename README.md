@@ -3,7 +3,7 @@
 ------
 ## 1.C语言快速入门
   [笔记](/markdowns/一、C语言快速入门.md)
-  [代码](Base/main.c)
+  [代码](Base/test.c)
 
 ## 2.函数与程序结构
   [笔记](/markdowns/二、函数与程序结构.md)
